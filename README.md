@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atli Filozof</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw25YXNlkUmfBrWEv-EF-fZ3&ust=1674596446347000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCb7ITU3vwCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47jj3nibav27kgfwtitxpyoqi9s28jg588ah6ng6np&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlifilozof&label=Profile%20views&color=0e75b6&style=flat" alt="atlifilozof" /> </p>
 
