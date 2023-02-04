@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java and JavaScript**
 
-- 📫 How to reach me **kadirhanertem@gmail.com**
+- 📫 How to reach me **spotifykadirhan@gmail.com**
 
 - ⚡ Fun fact **Crazy Turk**
 
