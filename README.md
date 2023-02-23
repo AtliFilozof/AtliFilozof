@@ -1,29 +1,44 @@
-<h1 align="center">Hi 👋, I'm Atli Filozof</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47jj3nibav27kgfwtitxpyoqi9s28jg588ah6ng6np&rid=giphy.gif&ct=g">
+<h1 align="center"> </🌼Atlı>  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=435&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+Be%C5%9F%230005" alt="Atlı Was Here" />
+</h1>
+<p align="center">
+ <a href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.github.com/atlifilozof" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/3152wryy3kbpc4zqgyhetwvtle6e?si=945049a32a594d33" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/atli.xyz" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
+ <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> Some İnformation About Me <img src="https://cdn.discordapp.com/emojis/947134506484244501.gif?size=128&quality=lossless" width="30px"> </h2>
+ 
+ <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> Langauges & Tools <img src="https://cdn.discordapp.com/emojis/825773478892011571.gif?size=128&quality=lossless" width="30px"> </h2>
+ 
+ <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/emojis/991406121757720616.png?size=96" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ <img align="left" alt="Node.js" width="26px" src="https://cdn.discordapp.com/emojis/707102713800032317.png?size=96" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.discordapp.com/emojis/991406123489972284.png?size=128&quality=lossless" />
+ <img align="left" alt="MongoDB" width="15px" src="https://cdn.discordapp.com/emojis/1024200016723714058.png?size=96" />
+ <img align="left" alt="Yarn" width="30px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
+ <img align="left" alt="ChartJS" width="34px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
+ <img align="left" alt="Json" width="32px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
+</br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atlifilozof&label=Profile%20views&color=0e75b6&style=flat" alt="atlifilozof" /> </p>
+<h2 align="center"> <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> Badges <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> </h2>
 
-- 🌱 I’m currently learning **TypeScript and Python**
+<img align="left" alt="Atlı" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
+ <img align="left" alt="Atlı" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
+ <img align="left" alt="Atlı" width="26px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
+</br>
 
-- 💬 Ask me about **Java and JavaScript**
+<h2 align="center"><img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> Profile Stats <img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> </h2>
+<img src="https://komarev.com/ghpvc/?username=atlifilozof&label=Ziyaretçi%20Sayısı&color=552b75" alt="atlifilozof" />
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/atlifilozof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 
-- 📫 How to reach me **spotifykadirhan@gmail.com**
 
-- ⚡ Fun fact **Crazy Turk**
+<h1 align="center"> <img src="https://cdn.discordapp.com/emojis/842491787955142656.gif?size=128&quality=lossless" width="30px"> My Discord Accounts <img src="https://cdn.discordapp.com/emojis/842491787955142656.gif?size=128&quality=lossless" width="30px"> </h1>
 
-<h3 align="left">Connect with me:</h3>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/981501891030700082?hideDiscrim=true)](https://discord.com/users/928259219038302258)
+
+<h1 align="center"> <img src="https://cdn.discordapp.com/emojis/750393876077871197.webp?size=128&quality=lossless" width="30px"> Github Stats <img src="https://cdn.discordapp.com/emojis/750393876077871197.webp?size=128&quality=lossless" width="30px"> </h1>
 <p align="left">
-<a href="https://instagram.com/atli.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atli.xyz" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/3hNatZXn9D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3hNatZXn9D" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atlifilozof&show_icons=true&locale=en&layout=compact" alt="atlifilozof" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlifilozof&show_icons=true&locale=en" alt="atlifilozof" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atlifilozof&" alt="atlifilozof" /></p>
-
+   <img src="https://github-readme-stats.vercel.app/api?username=atlifilozof&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlifilozof&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
