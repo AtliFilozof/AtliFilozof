@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Atlı>  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=435&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+Be%C5%9F%230005" alt="Atlı Was Here" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=FF2600&width=655&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+%CE%9Btl%C4%B1%20Filozof%231702" alt="Atlı Was Here" />
 </h1>
 <p align="center">
  <a href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
