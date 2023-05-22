@@ -5,7 +5,7 @@
   <a href="https://open.spotify.com/user/3152wryy3kbpc4zqgyhetwvtle6e?si=945049a32a594d33" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/atli.xyz" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> Statlar <img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> </h2>
+<h2 align="center"><img width="30px"> Statlar <img </h2>
 <img src="https://komarev.com/ghpvc/?username=atlifilozof&label=Ziyaretçi%20Sayısı&color=552b75" alt="atlifilozof" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/atlifilozof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 
