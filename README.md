@@ -1,20 +1,31 @@
-</h1>
-<p align="center">
+# 💫 About Me:
+Hi my name is Kadirhan <br>I'm learning JavaScript and TypeScript
 
-
-<h2 align="left"><img width="1px"> Statlar <img </h2>
-
-<img src="https://komarev.com/ghpvc/?username=atlifilozof&label=Ziyaretçi%20Sayısı&color=552b75" alt="atlifilozof" />
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/atlifilozof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a></h1>
-
-<h1 align="center"> <a href="https://discord.com/users/981501891030700082" target"blank_"><img src="https://cdn.discordapp.com/attachments/982921216115503104/1215741792327041114/pngwing.com_22_1.png?ex=65fddac6&is=65eb65c6&hm=fd25b72e1c2d6ecb867aa9b8d8cfb8a851b3e03cedbbfb0bf07e49fecf48d7f1&"></a>
-
-  <a href="https://open.spotify.com/user/3152wryy3kbpc4zqgyhetwvtle6e?si=945049a32a594d33" target"blank_"><img src="https://cdn.discordapp.com/attachments/982921216115503104/1215742049333153802/pngwing.com_24_2.png?ex=65fddb03&is=65eb6603&hm=e8f0a08d71aea5ff4dadd54d68f9f7ddd869d1be022a31aff49c4534ab3dce39&"></a>
-  
- <a href="https://www.instagram.com/atli.xyz" target"blank_"><img src="https://cdn.discordapp.com/attachments/982921216115503104/1215742049098403969/pngwing.com_23_1.png?ex=65fddb03&is=65eb6603&hm=c81338283258c3a0e32a1bf729bf3bbb0b496edb29e2397a10579072ca1dd3e2&"></a> </h1>
 
 <h1 align="left"> <img width="30px">Discord Hesabım <img width="30px"> </h1>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/981501891030700082)](https://discord.com/users/981501891030700082)
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/konusansalca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atli.xyz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/atli_filozof) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@konusansalca) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atli_xyz) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=atlifilozof&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=atlifilozof&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atlifilozof&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=atlifilozof&icon=7&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kadirhan) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
