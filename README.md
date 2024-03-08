@@ -2,8 +2,7 @@
 Hi my name is Kadirhan <br>I'm learning JavaScript and TypeScript
 
 
-<h1 align="left"> <img width="30px">Discord Hesabım <img width="30px"> </h1>
-
+# 🍪 My Discord Account:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/981501891030700082)](https://discord.com/users/981501891030700082)
 
