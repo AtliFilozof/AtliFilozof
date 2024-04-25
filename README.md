@@ -27,7 +27,7 @@ Hi my name is Kadirhan <br>I'm learning JavaScript and TypeScript
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Made by konusansalca   -->
 
 
 
